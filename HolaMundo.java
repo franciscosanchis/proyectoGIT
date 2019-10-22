@@ -6,7 +6,7 @@ public class HolaMundo {
 
 	public static void main (String[] args) {
 		
-		System.out.println("Hola GIT");
+		System.out.println("Hola_GIT");
 
 	}
 }
